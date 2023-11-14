@@ -1,0 +1,10 @@
+{
+    "input": {
+        "texts": [
+            "this is a short test document",
+            "this is a similar test document",
+            "def func(params):\n\tprint(f'user passed these params {params}')"
+        ],
+        "modelName": "microsoft/codebert-base"
+    }
+}
